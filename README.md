@@ -17,6 +17,7 @@ A aplicação consiste em realizar o cadastro, exclusão, edição e listar os d
 - Spring Cache
 - Autenticacao via JWT
 - Spring Boot Actuator
+- Bd h2.
 
 # Como executar o projeto
 
